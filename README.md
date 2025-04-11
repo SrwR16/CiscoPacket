@@ -7,7 +7,7 @@
 ![Skills](https://img.shields.io/badge/Skills-VLAN%20%7C%20OSPF%20%7C%20ACL%20%7C%20Redundancy-orange?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=for-the-badge)
 
-### Hands-on network engineering labs covering enterprise design, WAN transmission, security, and high availability — built and tested in Cisco Packet Tracer.
+### Hands-on network engineering labs  built and tested in Cisco Packet Tracer.
 
 **By Sarwar**
 
