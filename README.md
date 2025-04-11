@@ -4,7 +4,7 @@
 
 ![Networking](https://img.shields.io/badge/Tool-Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Projects](https://img.shields.io/badge/Projects-2%20Labs-success?style=for-the-badge)
-![Skills](https://img.shields.io/badge/Skills-VLAN%20%7C%20OSPF%20%7C%20ACL%20%7C%20Redundancy-orange?style=for-the-badge)
+![Skills](https://img.shields.io/badge/Skills-VLAN%20%7C%20OSPF-orange?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=for-the-badge)
 
 ### Hands-on network engineering labs  built and tested in Cisco Packet Tracer.
