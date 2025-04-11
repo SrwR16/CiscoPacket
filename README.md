@@ -1,5 +1,4 @@
-# 🌐 Cisco Packet Tracer — Network Engineering Labs
-
+# 🌐 Cisco Packet Tracer
 <div align="center">
 
 ![Networking](https://img.shields.io/badge/Tool-Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
@@ -7,7 +6,7 @@
 ![Skills](https://img.shields.io/badge/Skills-VLAN%20%7C%20OSPF-orange?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=for-the-badge)
 
-### Hands-on network engineering labs  built and tested in Cisco Packet Tracer.
+### Hands-on cisco labs  built and tested in Cisco Packet Tracer.
 
 **By Sarwar**
 
